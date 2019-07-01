@@ -26,7 +26,6 @@
           <argument>
             <kind>1</kind>
             <string>test_var = 1;
-te = 1;
 </string>
           </argument>
         </arguments>
