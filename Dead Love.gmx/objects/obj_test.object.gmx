@@ -26,7 +26,11 @@
           <argument>
             <kind>1</kind>
             <string>test_var = 1;
+<<<<<<< HEAD
 m = 2;
+=======
+te = 1;
+>>>>>>> parent of 6629d09... Update obj_test.object.gmx
 </string>
           </argument>
         </arguments>
