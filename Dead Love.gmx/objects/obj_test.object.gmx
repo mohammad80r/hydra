@@ -26,6 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>test_var = 1;
+m = 2;
 </string>
           </argument>
         </arguments>
