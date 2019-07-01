@@ -5,18 +5,9 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites">
-    <sprite>sprites\spr_haji</sprite>
-  </sprites>
+  <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
-<<<<<<< HEAD
-  <objects name="objects">
-    <object>objects\obj_test</object>
-    <object>objects\object1</object>
-  </objects>
-=======
->>>>>>> parent of e7b9e7b... u
   <help>
     <rtf>help.rtf</rtf>
   </help>
